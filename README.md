@@ -142,6 +142,7 @@ The SQL script creates the views `employee_bond_info` and `receiver_bond_info` t
 - **ElectoralBond_ProjectSQL.sql:** Contains the SQL queries written for the project.
 - **Questions on Electoral bonds.pdf:** Contains the original project questions and additional practice questions.
 - **README.md:** Documents the project scope, folder structure, SQL concepts, and execution steps.
+- **Screenshots:** Shows the images of the query that was written in PostgreSQL.
 
 ## 📌 Project Scope and Limitations
 
