@@ -17,6 +17,16 @@ The project uses multiple tables and SQL joins to connect the data and answer bu
 - Investigate bonds without associated donor records and donors whose bonds have no associated recipient record.
 - Analyze employee performance based on the number and amount of bonds issued and encashed.
 
+## Project Preview
+
+![Donor Spending](Screenshots/image_1.png)
+
+![Top Companies](Screenshots/image_2.png)
+
+![Year-Wise Spending](Screenshots/image_3.png)
+
+![Political Party Funding](Screenshots/image_4.png)
+
 ## 🛠️ Tools and Technologies
 
 - **Database:** PostgreSQL
@@ -35,8 +45,14 @@ Electoral_Bond_Project/
 ├── Questions on Electoral bonds.pdf
 │   └── Original project questions and additional practice questions
 │
-└── README.md
-    └── Project overview, objectives, tools, and documentation
+├── README.md
+│   └── Project overview, objectives, tools, and documentation
+│
+└── Screenshots
+    └── image_1
+    └── image_2
+    └── image_3
+    └── image_4
 ```
 
 ## 🗄️ Database Tables
